@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fb09adc-3077-4156-bbe2-8b127bb65295" name="Default" comment="" />
+    <ignored path="$USER_HOME$/Library/Developer/Xcode/DerivedData/WarZ-dssrrcxzdabwledrxrrcxqsycunp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_F3D61687-BC49-49B0-871B-E121E3ADC5DE" />
+  <component name="FavoritesManager">
+    <favorites_list name="WarZ" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.64298296">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="Rain.cpp" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../IF/Classes/scene/loading/Rain.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1034">
+                  <caret line="47" column="68" selection-start-line="47" selection-start-column="68" selection-end-line="47" selection-end-column="68" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="TestScene.cpp" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../IF/Classes/scene/loading/TestScene.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="746">
+                  <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+                  <folding>
+                    <element signature="e#45#67#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="yunbingcheGun01.c3t" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../test/yunbingcheGun01.c3t">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="62216">
+                  <caret line="2828" column="20" lean-forward="true" selection-start-line="2828" selection-start-column="20" selection-end-line="2828" selection-end-column="20" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="CCSprite3D.h" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/3d/CCSprite3D.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3696">
+                  <caret line="168" column="32" selection-start-line="168" selection-start-column="32" selection-end-line="168" selection-end-column="32" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="CCGLProgramState.cpp" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/renderer/CCGLProgramState.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="13508">
+                  <caret line="614" selection-start-line="614" selection-end-line="614" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="CCCameraBackgroundBrush.cpp" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCCameraBackgroundBrush.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3146">
+                  <caret line="143" selection-start-line="143" selection-end-line="143" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="CCCamera.cpp" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCCamera.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="8998">
+                  <caret line="409" selection-start-line="409" selection-end-line="409" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="CCNode.cpp" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCNode.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51150">
+                  <caret line="2325" column="25" selection-start-line="2325" selection-start-column="25" selection-end-line="2325" selection-end-column="25" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="CCSprite3D.cpp" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/3d/CCSprite3D.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1166">
+                  <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="CCRenderState.h" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/renderer/CCRenderState.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2838">
+                  <caret line="129" column="9" selection-start-line="129" selection-start-column="9" selection-end-line="129" selection-end-column="9" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="RainShader.vert" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../IF/Classes/RainShader.vert">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="154">
+                  <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ccShader_PositionTextureColor.vert" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/renderer/ccShader_PositionTextureColor.vert">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="792">
+                  <caret line="36" selection-start-line="36" selection-end-line="36" selection-end-column="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="RainShader.frag" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../IF/Classes/RainShader.frag">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="176">
+                  <caret line="8" column="36" selection-end-line="28" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_hasPremultipliedAlpha</find>
+      <find>verti</find>
+      <find>VerticalFlip</find>
+      <find>flip</find>
+      <find>initWithASTCData</find>
+      <find>pixelFormat</find>
+      <find>_renderFormat</find>
+      <find>touch</find>
+      <find>gatherGPUInfo</find>
+      <find>_glExtensions</find>
+      <find>_RainIntensity</find>
+      <find>CCSafeObject</find>
+      <find>_ThunderLighting</find>
+      <find>a_texCoord</find>
+      <find>UNIFORM_TIME</find>
+      <find>gl_FragColor</find>
+      <find>bluelayer</find>
+      <find>CCLayerColor \*bluelayer \= CCLayerColor\:\:create\(ccc4\(65\,65\,65\,128\)\, winSize\.width\, winSize\.height\)\;\n    bluelayer\-\&gt;setAnchorPoint\(ccp\(0\.5\, 0\.5\)\)\;\n    bluelayer\-\&gt;ignoreAnchorPointForPosition\(false\)\;\n    bluelayer\-\&gt;setPosition\(0\, 0\)\;\n    bluelayer\-\&gt;setBlendFunc\(\{GL_SRC_ALPHA\, GL_ONE_MINUS_SRC_ALPHA\}\)\;\n    bluelayer\-\&gt;setOpacity\(0\)\;\n    bluelayer\-\&gt;runAction\(FadeTo\:\:create\(3\, 150\)\)\;</find>
+      <find>v_fragmentColor</find>
+      <find>rainSpeed</find>
+      <find>glprogram</find>
+      <find>glProgramState</find>
+      <find>cc_shader</find>
+      <find>ccshader</find>
+      <find>shader</find>
+      <find>u_color</find>
+      <find>Uniform not foun</find>
+      <find>Uniform not found</find>
+      <find>debug</find>
+      <find>animation</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>goldPricesList</replace>
+      <replace>HatredRankView2</replace>
+      <replace>HatredCell2</replace>
+      <replace>BuildHeapEventTip</replace>
+      <replace>lightlayer</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/ios</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../IF/Classes/controller/PayController.cpp" />
+        <option value="$PROJECT_DIR$/../IF/Classes/Ext/AZCommonUtils.cpp" />
+        <option value="$PROJECT_DIR$/../IF/Classes/controller/QueueController.cpp" />
+        <option value="$PROJECT_DIR$/../IF/Classes/view/popup/eliteBattle/EliteBattleActiveView.cpp" />
+        <option value="$PROJECT_DIR$/../IF/Classes/Ext/CCCommonUtils.cpp" />
+        <option value="$PROJECT_DIR$/../IF/Classes/Ext/ChatService/Tools/InCommonUsed.h" />
+        <option value="$PROJECT_DIR$/../IF/Classes/Ext/ChatService/ChartIOS/model/chatModel/CSMessageModel+ModelManager.mm" />
+        <option value="$PROJECT_DIR$/../IF/Classes/Ext/ChatService/Tools/NSString+Cocos2dHelper.mm" />
+        <option value="$PROJECT_DIR$/../IF/Classes/Ext/ChatServiceV2/TGChatViewController.mm" />
+        <option value="$PROJECT_DIR$/../IF/Classes/view/popup/PasswordInputPopupView.cpp" />
+        <option value="$PROJECT_DIR$/../IF/Classes/Ext/FBUtilies.mm" />
+        <option value="$PROJECT_DIR$/ios/RootViewController.h" />
+        <option value="$PROJECT_DIR$/../IF/Classes/Ext/CCDevice.mm" />
+        <option value="$PROJECT_DIR$/../IF/Classes/Net/command/FunBuildCommand.cpp" />
+        <option value="$PROJECT_DIR$/../IF/Classes/Net/command/ArmyCancelCommand.cpp" />
+        <option value="$PROJECT_DIR$/../IF/Classes/view/popup/RepayView.cpp" />
+        <option value="$PROJECT_DIR$/../IF/Classes/scene/loading/LoadingScene.cpp" />
+        <option value="$PROJECT_DIR$/../cocos2d/cocos/platform/ios/glwrapper.cpp" />
+        <option value="$PROJECT_DIR$/../cocos2d/cocos/base/ccMacros.h" />
+        <option value="$PROJECT_DIR$/../cocos2d/cocos/platform/ios/CCES2Renderer-ios.mm" />
+        <option value="$PROJECT_DIR$/../cocos2d/extensions/GUI/CCControlExtension/CCControlButton.h" />
+        <option value="$PROJECT_DIR$/ios/Prefix.pch" />
+        <option value="$PROJECT_DIR$/ios/ShopIAPHelper.mm" />
+        <option value="$PROJECT_DIR$/../IF/Classes/CommonInclude.h" />
+        <option value="$PROJECT_DIR$/../IF/Classes/scene/loading/LoadingScene.h" />
+        <option value="$PROJECT_DIR$/../IF/Classes/AppLibHelper.mm" />
+        <option value="$PROJECT_DIR$/../IF/Classes/scene/loading/TestScene.h" />
+        <option value="$PROJECT_DIR$/../IF/Classes/DebugHelper.cpp" />
+        <option value="$PROJECT_DIR$/ios/RootViewController.mm" />
+        <option value="$PROJECT_DIR$/../cocos2d/cocos/2d/CCSpriteFrameCache.cpp" />
+        <option value="$PROJECT_DIR$/../IF/Classes/AppDelegate.cpp" />
+        <option value="$PROJECT_DIR$/../cocos2d/cocos/renderer/CCGLProgram.cpp" />
+        <option value="$PROJECT_DIR$/../cocos2d/cocos/base/CCRef.cpp" />
+        <option value="$PROJECT_DIR$/../cocos2d/cocos/base/CCDirector.cpp" />
+        <option value="$PROJECT_DIR$/ios/AppController.mm" />
+        <option value="$PROJECT_DIR$/../cocos2d/cocos/base/CCConfiguration.h" />
+        <option value="$PROJECT_DIR$/../cocos2d/cocos/platform/ios/glextwrapper.h" />
+        <option value="$PROJECT_DIR$/../cocos2d/cocos/renderer/CCTexture2D.h" />
+        <option value="$PROJECT_DIR$/../cocos2d/cocos/platform/CCImage.h" />
+        <option value="$PROJECT_DIR$/../cocos2d/cocos/platform/CCImage.cpp" />
+        <option value="$PROJECT_DIR$/../cocos2d/cocos/renderer/CCTexture2D.cpp" />
+        <option value="$PROJECT_DIR$/../cocos2d/cocos/base/CCConfiguration.cpp" />
+        <option value="$PROJECT_DIR$/../IF/Classes/TerrainFade.vert" />
+        <option value="$PROJECT_DIR$/../IF/Classes/TerrainFade.frag" />
+        <option value="$PROJECT_DIR$/../cocos2d/cocos/2d/CCActionInterval.h" />
+        <option value="$PROJECT_DIR$/../IF/Classes/scene/loading/Rain.h" />
+        <option value="$PROJECT_DIR$/../IF/Classes/RainShader.vert" />
+        <option value="$PROJECT_DIR$/../IF/Classes/RainShader.frag" />
+        <option value="$PROJECT_DIR$/../IF/Classes/scene/loading/Rain.cpp" />
+        <option value="$PROJECT_DIR$/../cocos2d/cocos/3d/CCSprite3D.cpp" />
+        <option value="$PROJECT_DIR$/../IF/Classes/scene/loading/TestScene.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="false" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="591" />
+    <option name="y" value="147" />
+    <option name="width" value="1920" />
+    <option name="height" value="1004" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Cidr.FilesView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="WarzSimpleTest" type="1d218c8b:XcodeProjectNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="WarzSimpleTest" type="1d218c8b:XcodeProjectNode" />
+              <item name="Classes" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="WarzSimpleTest" type="1d218c8b:XcodeProjectNode" />
+              <item name="Classes" type="fcab9f18:XcodeViewNode" />
+              <item name="scene" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="WarzSimpleTest" type="1d218c8b:XcodeProjectNode" />
+              <item name="Classes" type="fcab9f18:XcodeViewNode" />
+              <item name="scene" type="fcab9f18:XcodeViewNode" />
+              <item name="loading" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="WarzSimpleTest" type="1d218c8b:XcodeProjectNode" />
+              <item name="Resources" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="WarzSimpleTest" type="1d218c8b:XcodeProjectNode" />
+              <item name="Resources" type="fcab9f18:XcodeViewNode" />
+              <item name="test" type="fcab9f18:XcodeViewNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="AgainstZ" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/imac_liudi/WORK_POROJECT/azclient_master/IF/Classes/controller/FunBuildController.h&#10;memory&#9;ACTION&#9;CaptureMemorySnapShot" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.cidr.execution.build.XcodeMessageFilterConfiguration.GENERIC" value="false" />
+    <property name="com.jetbrains.cidr.execution.build.XcodeMessageFilterConfiguration.INFO" value="false" />
+    <property name="com.jetbrains.cidr.execution.build.XcodeMessageFilterConfiguration.NOTE" value="false" />
+    <property name="com.jetbrains.cidr.execution.build.XcodeMessageFilterConfiguration.WARNING" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../test" />
+      <recent name="$PROJECT_DIR$/../IF/Classes/scene/loading" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/../IF/Classes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AgainstZ">
+    <configuration name="AgainstZ Notification Content" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="WarzSimpleTest" TARGET_NAME="AgainstZ Notification Content" CONFIG_NAME="Debug" SCHEME_NAME="AgainstZ Notification Content" IS_LOCATION_SIMULATION_ALLOWED="true" RUN_TARGET_PROJECT_NAME="WarzSimpleTest" RUN_TARGET_NAME="AgainstZ" MAKE_ACTIVE="TRUE" />
+    <configuration name="AgainstZ Notification" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="WarzSimpleTest" TARGET_NAME="AgainstZ Notification" CONFIG_NAME="Debug" SCHEME_NAME="AgainstZ Notification" IS_LOCATION_SIMULATION_ALLOWED="true" RUN_TARGET_PROJECT_NAME="WarzSimpleTest" RUN_TARGET_NAME="AgainstZ" MAKE_ACTIVE="TRUE" />
+    <configuration name="AgainstZ Today Extension" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="WarzSimpleTest" TARGET_NAME="AgainstZ Today Extension" CONFIG_NAME="Debug" SCHEME_NAME="AgainstZ Today Extension" IS_LOCATION_SIMULATION_ALLOWED="true" RUN_TARGET_PROJECT_NAME="WarzSimpleTest" RUN_TARGET_NAME="AgainstZ" MAKE_ACTIVE="TRUE" />
+    <configuration name="libcocos2d Mac" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cocos2d_libs" TARGET_NAME="libcocos2d Mac" CONFIG_NAME="Debug" SCHEME_NAME="libcocos2d Mac" IS_LOCATION_SIMULATION_ALLOWED="true" MAKE_ACTIVE="TRUE" />
+    <configuration name="libcocos2d iOS" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cocos2d_libs" TARGET_NAME="libcocos2d iOS" CONFIG_NAME="Debug" SCHEME_NAME="libcocos2d iOS" IS_LOCATION_SIMULATION_ALLOWED="true" MAKE_ACTIVE="TRUE" />
+    <list>
+      <item itemvalue="Application.AgainstZ" />
+      <item itemvalue="Application.libluacocos2d iOS" />
+      <item itemvalue="Application.libluacocos2d Mac" />
+      <item itemvalue="Application.AgainstZ Today Extension" />
+      <item itemvalue="Application.libcocos2d Mac" />
+      <item itemvalue="Application.libcocos2d iOS" />
+      <item itemvalue="Application.AgainstZ Notification" />
+      <item itemvalue="Application.AgainstZ Notification Content" />
+    </list>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="486" y="68" width="1920" height="1004" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8698413" visible="true" weight="0.19641916" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49394417" weight="0.32837528" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.2996314" side_tool="true" visible="true" weight="0.28733033" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49394417" weight="0.62471396" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info id="Structure" order="1" sideWeight="0.13015874" side_tool="true" visible="true" weight="0.19641916" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.70036864" weight="0.28733033" />
+      <window_info id="Favorites" order="3" sideWeight="0.4037123" side_tool="true" weight="0.27172196" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="430" height="787" id="Documentation" order="4" side_tool="true" visible="true" weight="0.09318424" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.5376514" weight="0.12443439" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.597683" weight="0.30656108" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/../IF/Classes/controller/ArmyController.cpp</url>
+          <line>728</line>
+          <option name="timeStamp" value="1850" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/../IF/Classes/controller/PayController.cpp</url>
+          <line>642</line>
+          <option name="timeStamp" value="1865" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/../IF/Classes/scene/cropscene/SpeBuildBtnsView.cpp</url>
+          <line>758</line>
+          <option name="timeStamp" value="1873" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/../IF/Classes/controller/ActivityController.cpp</url>
+          <line>4401</line>
+          <option name="timeStamp" value="1875" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/../IF/Classes/view/popup/DailyActive/CountrySeasonInfoView.cpp</url>
+          <line>362</line>
+          <option name="timeStamp" value="1913" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/../IF/Classes/controller/PayController.cpp</url>
+          <line>769</line>
+          <option name="timeStamp" value="1918" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/../IF/Classes/view/popup/GoldExchangeAdvertisingView.cpp</url>
+          <line>1335</line>
+          <option name="timeStamp" value="1921" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/../IF/Classes/view/popup/GoldExchangeAdvertisingView.cpp</url>
+          <line>1167</line>
+          <option name="timeStamp" value="1922" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/../IF/Classes/view/popup/SetAccountView.cpp</url>
+          <line>402</line>
+          <option name="timeStamp" value="1937" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/../IF/Classes/Ext/AZCommonUtils.cpp</url>
+          <line>1528</line>
+          <option name="timeStamp" value="1938" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/../IF/Classes/controller/ArmyController.cpp</url>
+          <line>1124</line>
+          <option name="timeStamp" value="1946" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/../IF/Classes/controller/ActivityController.cpp</url>
+          <line>3400</line>
+          <option name="timeStamp" value="1960" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/../IF/Classes/scene/loading/TestScene.cpp</url>
+          <line>56</line>
+          <option name="timeStamp" value="2007" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="2008" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="AppleRunConfiguration">
+        <watch expression="spr-&gt;getScale()" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>idx == 0</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this-&gt;product_id3==&quot;warzios_zuanshi_1003&quot;</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>armyID.compare(&quot;108429&quot;) == 0</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(it-&gt;second).type == 40</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(it-&gt;second).type == 49</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>show == true</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>iinfo.type == 40</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dict-&gt;objectForKey(&quot;name&quot;) != nullptr</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this-&gt;m_buildingKey == 530000208</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="breakpointLogExpression">
+      <expression>
+        <expression-string>if(IS_IPHONEX())
+    {
+        viewFrameSize.origin.y = kiPhoneXTopSpace;
+        viewFrameSize.size.height = kMainScreenHeight;;
+    }</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>spr-&gt;getScale()</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rect = spr-&gt;getBoundingBox();</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>spr-&gt;setScale(5)</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rect = spr-&gt;getBoundingBox()</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>spr-&gt;setScale(100);</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>spr-&gt;setScale(1);</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>PixelFormat::AUTO == format</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>glGetStringi(GL_EXTENSIONS, 0)</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>glGetError()</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>glGetStringi(GL_EXTENSIONS)</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="setValue">
+      <expression>
+        <expression-string>image-&gt;getRenderFormat()</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ASTC_4X4</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>1</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>0x000000012a5e84a0</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>@&quot;liudiTIANYAAAA&quot;</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>@&quot;test_custom_LanguageChatRoom_1&quot;</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>@&quot;liudaaaaa&quot;</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>test_custom_LanguageChatRoom_1</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>@&quot;liudi231231&quot;</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>@&quot;liudi1&quot;</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string />
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string />
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string />
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../IF/Classes/RainShader.frag">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="36" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/platform/CCPlatformConfig.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/platform/ios/glextwrapper.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5874">
+          <caret line="267" column="8" selection-start-line="267" selection-start-column="8" selection-end-line="267" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/_types/_uint32_t.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/base/pvr.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1958">
+          <caret line="89" column="12" selection-start-line="89" selection-start-column="12" selection-end-line="89" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IF/Classes/scene/loading/LoadingScene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30558">
+          <caret line="1389" column="5" selection-start-line="1389" selection-start-column="5" selection-end-line="1389" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/set">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14300">
+          <caret line="650" selection-start-line="650" selection-end-line="650" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/renderer/CCTexture2D.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="81" column="26" selection-start-line="81" selection-start-column="15" selection-end-line="81" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/platform/CCImage.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="142" column="29" selection-start-line="142" selection-start-column="29" selection-end-line="142" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/base/CCScheduler.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="183" selection-start-line="183" selection-end-line="183" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/platform/CCImage.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="2673" column="4" lean-forward="true" selection-start-line="2673" selection-start-column="4" selection-end-line="2673" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCScene.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IF/Classes/scene/loading/TestScene.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCSpriteFrameCache.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13288">
+          <caret line="604" column="84" selection-start-line="604" selection-start-column="84" selection-end-line="604" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/renderer/CCTextureCache.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8800">
+          <caret line="400" column="33" selection-start-line="400" selection-start-column="33" selection-end-line="400" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/renderer/CCTexture2D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19756">
+          <caret line="898" column="23" selection-start-line="898" selection-start-column="23" selection-end-line="898" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/base/CCConfiguration.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5236">
+          <caret line="238" column="33" selection-start-line="238" selection-start-column="20" selection-end-line="238" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/base/CCConfiguration.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2992">
+          <caret line="136" column="39" selection-start-line="136" selection-start-column="39" selection-end-line="136" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IF/Classes/AppDelegate.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/math/Vec4.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCSprite.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="157" column="13" selection-start-line="157" selection-start-column="13" selection-end-line="157" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCScene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4334">
+          <caret line="197" column="29" selection-start-line="197" selection-start-column="29" selection-end-line="197" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/renderer/CCTrianglesCommand.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/renderer/ccShader_PositionColor.frag">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/renderer/ccShader_PositionColor.vert">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCActionEase.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4862">
+          <caret line="221" column="13" selection-start-line="221" selection-start-column="13" selection-end-line="221" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/renderer/CCGLProgram.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3278">
+          <caret line="149" column="22" selection-start-line="149" selection-start-column="22" selection-end-line="149" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/platform/ios/glwrapper.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2398">
+          <caret line="109" column="8" selection-start-line="109" selection-start-column="8" selection-end-line="109" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/deprecated/CCDeprecated.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13046">
+          <caret line="593" column="39" selection-start-line="593" selection-start-column="39" selection-end-line="593" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCActionInterval.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4708">
+          <caret line="214" column="19" selection-start-line="214" selection-start-column="19" selection-end-line="214" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCNode.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30140">
+          <caret line="1370" column="31" selection-start-line="1369" selection-start-column="7" selection-end-line="1370" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCActionInterval.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41998">
+          <caret line="1909" column="18" selection-start-line="1909" selection-start-column="18" selection-end-line="1909" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/renderer/ccShader_PositionTextureColor.vert">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" selection-start-line="36" selection-end-line="36" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IF/Classes/RainShader.vert">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IF/Classes/RainShader.frag">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="36" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/base/CCRef.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4840">
+          <caret line="220" column="20" selection-start-line="220" selection-start-column="20" selection-end-line="220" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IF/Classes/scene/loading/Rain.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/renderer/CCMaterial.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="77" column="20" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/3d/CCMesh.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="79" column="57" selection-start-line="79" selection-start-column="51" selection-end-line="79" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/renderer/CCGLProgram.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="231" column="23" selection-start-line="231" selection-start-column="23" selection-end-line="231" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IF/Classes/scene/loading/Rain.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="47" column="68" selection-start-line="47" selection-start-column="68" selection-end-line="47" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCCamera.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8998">
+          <caret line="409" selection-start-line="409" selection-end-line="409" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCCameraBackgroundBrush.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3146">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/renderer/CCGLProgramState.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13508">
+          <caret line="614" selection-start-line="614" selection-end-line="614" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/renderer/CCRenderState.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2838">
+          <caret line="129" column="9" selection-start-line="129" selection-start-column="9" selection-end-line="129" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCNode.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51150">
+          <caret line="2325" column="25" selection-start-line="2325" selection-start-column="25" selection-end-line="2325" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/3d/CCSprite3D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/3d/CCSprite3D.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3696">
+          <caret line="168" column="32" selection-start-line="168" selection-start-column="32" selection-end-line="168" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test/yunbingcheGun01.c3t">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62216">
+          <caret line="2828" column="20" lean-forward="true" selection-start-line="2828" selection-start-column="20" selection-end-line="2828" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IF/Classes/scene/loading/TestScene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="746">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#45#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

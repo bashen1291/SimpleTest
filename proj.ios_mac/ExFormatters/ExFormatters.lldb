@@ -1,0 +1,11 @@
+
+type summary add "cocos2d::DictKey" -F ExFormatters.DictLey_SummaryProvider
+
+type synthetic add -x "^contiguous_hash<.+>$" -l ExFormatters.chash_SyntheticProvider
+type summary add -x "^contiguous_hash<.+>$" -s "size=${svar%#}" -e
+
+type synthetic add -x "^b_plus_plus_tree<.+>$" -l ExFormatters.bpptree_SyntheticProvider
+type summary add -x "^b_plus_plus_tree<.+>$" -s "size=${svar%#}" -e
+
+type synthetic add "cocos2d::_ccArray" -l ExFormatters.ccArray_SyntheticProvider
+type summary add "cocos2d::_ccArray" -s "size=${svar%#}" -e

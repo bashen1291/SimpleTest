@@ -1,0 +1,7 @@
+//
+//  WarZ.xcconfig
+//  WarZ
+//
+//  Created by Kai Guo on 2018/3/15.
+//
+CC = $(SRCROOT)/ccache-clang
